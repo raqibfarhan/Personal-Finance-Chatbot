@@ -48,7 +48,7 @@ Dotenv – Environment variables
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repo
-git clone https://github.com/your-username/finance-csv-chatbot.git
+https://github.com/raqibfarhan/Personal-Finance-Chatbot.git
 cd finance-csv-chatbot
 
 2️⃣ Create Virtual Environment
@@ -65,4 +65,5 @@ DATA_PATH=".csv file"
 MODEL_NAME="llama-3.1-70b-versatile"
 
 4️⃣ Run the App
+
 streamlit run app.py
